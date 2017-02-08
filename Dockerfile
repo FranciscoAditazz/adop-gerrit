@@ -1,6 +1,6 @@
 FROM openfrontier/gerrit:2.10.x
 
-MAINTAINER Nick Griffin, <nicholas.griffin>
+MAINTAINER Francisco Rodriguez, <francisco.rodriguez>
 
 # Environment variables
 ENV GERRIT_USERNAME gerrit
